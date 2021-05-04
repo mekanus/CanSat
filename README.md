@@ -8,7 +8,15 @@ Conteúdo referente a experiência CanSat - criação dos circuitos de coleta de
 
 ## Sketchs e circutitos:
 
-Existem 3 circtuitos e seus respectivos Scketchs, sendo 2 referentes a versao de tranamissao de dados sem fio
+Existem 3 circuitos e seus respectivos Scketchs, sendo 2 referentes a versão de transmissão de dados sem fio.
+
+O circuito é um coletor de dados, utilizando um Barômetro Bmp180 Gy-68 e um Acelerômetro Giroscópio 3 Eixos Mpu-6050
+
+## Links dos sensores na Mekanus Robótica Educacional
+
+Acelerômetro Giroscópio 3 Eixos Mpu-6050 => https://www.lojamekanus.com.br/produto/408196/
+
+Barômetro Bmp180 Gy-68 => https://www.lojamekanus.com.br/produto/408479/
 
 
 ## Montagem Cansat com Shield Sd Card 
