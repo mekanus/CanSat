@@ -36,11 +36,11 @@ Fonte: https://github.com/mekanus/CanSat/blob/main/CANSAT%20MicroSD.ino
 
 ## Montagem do circuito Cansat com os módulos NRF24l01
 
-Circuito emissor - captura os dados e efetua o envio: https://github.com/mekanus/CanSat/blob/main/CANSAT%20NRF24L01_TX.JPG
+***Circuito emissor*** - captura os dados e efetua o envio: https://github.com/mekanus/CanSat/blob/main/CANSAT%20NRF24L01_TX.JPG
 
 Fonte: https://github.com/mekanus/CanSat/blob/main/CANSAT%20NRF24L01_TX.ino
 
-Circuito receptor - recebe os dados para exibição via monitor serial da IDE: https://github.com/mekanus/CanSat/blob/main/CANSAT%20NRF24L01_RX.JPG
+***Circuito receptor*** - recebe os dados para exibição via monitor serial da IDE: https://github.com/mekanus/CanSat/blob/main/CANSAT%20NRF24L01_RX.JPG
 
 Fonte: https://github.com/mekanus/CanSat/blob/main/CANSAT%20NRF24L01_RX.ino
 
