@@ -23,9 +23,9 @@ Acelerômetro Giroscópio 3 Eixos Mpu-6050 => https://www.lojamekanus.com.br/pro
 
 Barômetro Bmp180 Gy-68 => https://www.lojamekanus.com.br/produto/408479/
 
-Módulo Transceptor Nrf24l01 + Pa + Lna Rf Antena 2.4ghz https://www.lojamekanus.com.br/produto/408507/
+Módulo Transceptor Nrf24l01 + Pa + Lna Rf Antena 2.4ghz => https://www.lojamekanus.com.br/produto/408507/
 
-Módulo Leitor Gravador Micro Sd https://www.lojamekanus.com.br/produto/408063/
+Módulo Leitor Gravador Micro Sd => https://www.lojamekanus.com.br/produto/408063/
 
 ## Montagem do circuito Cansat com Shield Sd Card 
 
