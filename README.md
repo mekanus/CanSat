@@ -5,6 +5,11 @@ Conteúdo referente a experiência CanSat - criação dos circuitos de coleta de
 
 **O material aqui contido não possui finalidade comercial.**
 
+## Preparação da IDE:
+
+Instalar a biblioteca - https://github.com/mekanus/CanSat/blob/main/RF24-master.rar
+Caso já tenha instalado outra biblioteca da IDE, remover a instalada primeiro.
+Descompactar o conteúdo dentro de \Arduino\libraries (lembre-se de verificar onde está instalado o Arduino em seu computador).
 
 ## Sketchs e circutitos:
 
